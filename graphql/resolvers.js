@@ -1,3 +1,4 @@
+// Import
 import { getMovies } from "./db";
 
 const resolvers = {
